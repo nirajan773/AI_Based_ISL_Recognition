@@ -1,0 +1,34 @@
+
+# Original dataset folders
+Training/
+Testing/
+Validation/
+dataset/
+Letters/
+
+
+# Processed dataset
+processed/
+
+# Local landmark data
+hand_landmarks_isl.csv
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+
+# Log files
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+imports.py
