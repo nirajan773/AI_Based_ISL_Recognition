@@ -87,9 +87,11 @@ Make sure the required model files are present inside the `models` folder.
 
 ## Dataset
 
-This project uses the RealSign Indian Sign Language dataset.
+**Original Dataset:** RealSign – Indian Sign Language Dataset
 
-The original dataset is not included in this repository. Please obtain it from its original source and follow its licensing and attribution requirements.
+**Dataset Repository:** https://github.com/RealSign62/RealSign-Indian-Sign-Language-Dataset
+
+**Dataset Creators:** Aaptha Boggaram, Ankith Boggaram, Ashwin Srinivasa Ramanujan, and Aryan Rajesh Sharma.
 
 ## Future Improvements
 
